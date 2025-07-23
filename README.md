@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Development.<br>👯 I’m looking to collaborate on Web Development.<br>
+🔭 I’m currently working in Infosys as a Specialist programmer.<br>👯 Current role include working on Java Microservices and Angular.<br>👯 Looking to collaborate on FullStack.<br>
 
 
 
